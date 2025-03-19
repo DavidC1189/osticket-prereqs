@@ -27,10 +27,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install MySQL: Set up username and password
 - Install C++ redistributable
 - Configure Permissions and install osTicket
+
+![image](https://github.com/user-attachments/assets/b7085ded-ba65-42bb-bb2a-4ff5d4f3eef9)
+
+
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Qkyewo1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
